@@ -1,0 +1,29 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400vh;
+    color: white;
+    background-image:url('netflix.jpg');
+    background-size: cover; 
+    background-position: center; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+.submit { 
+    color: rgb(71, 71, 162);
+}
